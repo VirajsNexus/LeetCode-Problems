@@ -10,12 +10,12 @@ public:
         // we dont know that which string has longer length so we will use or operator to iterate till all characters in both strings
         for(int i = 0; i < length1 || i < length2; i++)
         {
-            // now, appending of characters of strings to be selected based on " is the index of them is within the length of respective word? "
+            // now, appending of characters of strings to be selected on the basis of " is the index of them is within the length of respective word? "
 
             // applying condition to first word
             if(i < length1)
             {
-                result += word1[i];
+                result += word1[i]; 
             }
             
             // applying condition to second word
