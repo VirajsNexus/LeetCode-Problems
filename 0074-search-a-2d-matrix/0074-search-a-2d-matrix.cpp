@@ -9,13 +9,13 @@ public:
         int columns = matrix[0].size(); 
 
         //Use binary search
-        int left = 0;
-        int right = rows * columns -1;
+        int low = 0;
+        int high = rows * columns -1;
         int FirstTrueIndex = -1;
 
-        while(left <= right)
+        while(low <= high)
         {
-            int mid = left + (right - left) / 2;
+            int mid = low + (high - low) / 2;
             
             //convert coordinates from 1D to 2D
             int Row2D = mid / columns;
@@ -25,11 +25,11 @@ public:
             if(matrix[Row2D][Column2D] >= target)
             {
                 FirstTrueIndex = mid;
-                right = mid -1;
+                high = mid -1;
             }
             else
             {
-                left = mid +1;
+                low = mid +1;
             }
         }
         //Checking for FirstTrueIndex is pointing to the target or not
