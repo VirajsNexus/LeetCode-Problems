@@ -10,6 +10,17 @@
  */
 class Solution {
 public:
+        int gcd(int a, int b)       //finding greatest common divisor of two nums
+        {
+            while(b != 0)
+            {
+                int temp = b;
+                b = a % b;
+                a = temp;
+            }
+            return a;
+        }
+
     ListNode* insertGreatestCommonDivisors(ListNode* head) 
     {
         ListNode* current = head;               //current set at head
