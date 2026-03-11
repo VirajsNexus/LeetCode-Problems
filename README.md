@@ -53,6 +53,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0461-hamming-distance](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0461-hamming-distance/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
