@@ -52,6 +52,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [0461-hamming-distance](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0461-hamming-distance/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Tree
@@ -70,4 +71,8 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
