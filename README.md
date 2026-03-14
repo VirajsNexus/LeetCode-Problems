@@ -65,6 +65,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,4 +92,8 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
