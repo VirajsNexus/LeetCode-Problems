@@ -9,6 +9,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0274-h-index](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0274-h-index/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
@@ -97,10 +98,12 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
