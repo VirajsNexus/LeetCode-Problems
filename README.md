@@ -46,6 +46,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0328-odd-even-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Stack
