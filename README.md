@@ -111,6 +111,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | ------- | ------- |
 | [0015-3sum](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0541-reverse-string-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0541-reverse-string-ii/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -132,6 +133,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0541-reverse-string-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0541-reverse-string-ii/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
