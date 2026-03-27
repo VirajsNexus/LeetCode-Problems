@@ -11,6 +11,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0015-3sum](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0055-jump-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
+| [0078-subsets](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0274-h-index](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0274-h-index/) | Medium |
@@ -75,6 +76,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
 | [0191-number-of-1-bits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [0342-power-of-four](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0342-power-of-four/) | Easy |
 | [0461-hamming-distance](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0461-hamming-distance/) | Easy |
@@ -167,4 +169,8 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0933-number-of-recent-calls/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
