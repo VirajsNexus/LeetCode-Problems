@@ -47,6 +47,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | ------- | ------- |
 | [0258-add-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0682-baseball-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
+| [3174-clear-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3174-clear-digits/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0682-baseball-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
+| [3174-clear-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3174-clear-digits/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +160,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0003-longest-substring-without-repeating-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0541-reverse-string-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0541-reverse-string-ii/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3174-clear-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3174-clear-digits/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
