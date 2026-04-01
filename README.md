@@ -38,6 +38,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0342-power-of-four](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0342-power-of-four/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
@@ -79,6 +80,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0274-h-index/) | Medium |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +155,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
