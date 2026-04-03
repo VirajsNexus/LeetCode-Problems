@@ -159,6 +159,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0003-longest-substring-without-repeating-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +167,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0541-reverse-string-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0541-reverse-string-ii/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3174-clear-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3174-clear-digits/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
