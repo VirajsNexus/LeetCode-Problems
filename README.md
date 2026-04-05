@@ -44,6 +44,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [2396-strictly-palindromic-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
