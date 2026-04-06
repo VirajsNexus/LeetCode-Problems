@@ -21,6 +21,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0682-baseball-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1816-truncate-sentence](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1816-truncate-sentence/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -169,6 +170,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0541-reverse-string-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0541-reverse-string-ii/) | Easy |
+| [1816-truncate-sentence](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1816-truncate-sentence/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3174-clear-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3174-clear-digits/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
