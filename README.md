@@ -69,6 +69,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0328-odd-even-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0622-design-circular-queue](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0622-design-circular-queue/) | Medium |
+| [1669-merge-in-between-linked-lists](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
