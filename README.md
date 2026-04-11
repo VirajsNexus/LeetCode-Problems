@@ -25,6 +25,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [2149-rearrange-array-elements-by-sign](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 ## Sorting
@@ -173,6 +174,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0003-longest-substring-without-repeating-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## String
@@ -188,6 +190,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
