@@ -47,6 +47,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [1025-divisor-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2413-smallest-even-multiple](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
@@ -63,6 +64,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
