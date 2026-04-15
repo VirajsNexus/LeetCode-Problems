@@ -72,6 +72,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0086-partition-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -157,6 +158,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0011-container-with-most-water](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0086-partition-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0086-partition-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0541-reverse-string-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0541-reverse-string-ii/) | Easy |
