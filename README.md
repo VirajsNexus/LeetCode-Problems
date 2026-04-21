@@ -17,6 +17,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0118-pascals-triangle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0274-h-index](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0622-design-circular-queue](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0622-design-circular-queue/) | Medium |
@@ -38,6 +39,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0274-h-index](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0274-h-index/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
@@ -141,6 +143,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,4 +257,12 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
