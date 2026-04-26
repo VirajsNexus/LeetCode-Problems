@@ -78,6 +78,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0086-partition-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -148,6 +149,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0050-powx-n](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0050-powx-n/) | Medium |
 | [0342-power-of-four](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0342-power-of-four/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
