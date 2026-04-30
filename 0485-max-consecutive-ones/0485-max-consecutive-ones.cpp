@@ -10,7 +10,10 @@ public:
             if(nums[i] == 1)
             {
                 count++;
-                maxCount = max(maxCount, count);
+                if(count > maxCount)
+                {
+                    maxCount = count;
+                }
             }
             else
             {
