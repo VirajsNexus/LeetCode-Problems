@@ -25,6 +25,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0628-maximum-product-of-three-numbers](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1470-shuffle-the-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -48,6 +49,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0274-h-index](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0274-h-index/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -112,6 +114,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0274-h-index/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -222,6 +225,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0645-set-mismatch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [2615-sum-of-distances](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
