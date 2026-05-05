@@ -97,6 +97,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0061-rotate-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -201,6 +202,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0011-container-with-most-water](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0086-partition-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0086-partition-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
