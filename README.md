@@ -26,6 +26,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0485-max-consecutive-ones](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0622-design-circular-queue](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0622-design-circular-queue/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0636-exclusive-time-of-functions](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -116,6 +117,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0232-implement-queue-using-stacks](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0636-exclusive-time-of-functions](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0682-baseball-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
