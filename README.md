@@ -29,6 +29,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0636-exclusive-time-of-functions](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -122,6 +123,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0589-n-ary-tree-preorder-traversal](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0682-baseball-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -310,6 +312,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0739-daily-temperatures](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
