@@ -1,29 +1,30 @@
-class Solution {
+class Solution 
+{
 public:
     vector<int> findThePrefixCommonArray(vector<int>& A, vector<int>& B) 
     {
         int n = A.size();
-        vector<int> freq(n + 1, 0);
-        vector<int> result(n);
-        
-        int common = 0;
+        vector<int> ans(n);
 
-        for(int i = 0; i < n; i++) 
+        for (int i = 0; i < n; i++) 
         {
-            // Process A[i]
-            freq[A[i]]++;
-            if(freq[A[i]] == 2) 
-                common++;
+            int count = 0;
 
-            // Process B[i]
-            freq[B[i]]++;
-            if(freq[B[i]] == 2) 
-                common++;
-
-            result[i] = common;
+            // Check every element in A[]
+            for (int j = 0; j <= i; j++) 
+            {
+                // Search A[j] in B[0..i]
+                for (int k = 0; k <= i; k++) 
+                {
+                    if (A[j] == B[k])
+                    {
+                        count++;
+                        break;
+                    }
+                }
+            }
+            ans[i] = count;
         }
-
-        return result;
-
+        return ans;
     }
 };
