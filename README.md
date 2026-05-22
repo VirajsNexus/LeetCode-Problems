@@ -10,6 +10,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
@@ -212,6 +213,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
