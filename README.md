@@ -41,6 +41,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [1470-shuffle-the-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1816-truncate-sentence](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1816-truncate-sentence/) | Easy |
@@ -99,6 +100,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0415-add-strings](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
 | [0682-baseball-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3174-clear-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3174-clear-digits/) | Easy |
@@ -138,6 +140,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0739-daily-temperatures](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3174-clear-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3174-clear-digits/) | Easy |
@@ -313,6 +316,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0232-implement-queue-using-stacks](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
