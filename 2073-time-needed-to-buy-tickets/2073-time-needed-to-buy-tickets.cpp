@@ -4,7 +4,6 @@ public:
     {
         int Time = 0;
 
-
         //iterating queue
         for(int i = 0; i< tickets.size(); ++i)
         {
@@ -19,6 +18,8 @@ public:
             }
 
             // Case 2: Peoples after kth position
+
+            //when kth person buys his last ticket, afterwards queue will not move
             else
             {
                 Time += min(tickets[i], tickets[k] -1);
