@@ -50,6 +50,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1861-rotating-the-box/) | Medium |
 | [1929-concatenation-of-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2540-minimum-common-value/) | Easy |
@@ -106,6 +107,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [1441-build-an-array-with-stack-operations](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3174-clear-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3174-clear-digits/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
@@ -331,6 +333,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0622-design-circular-queue](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
