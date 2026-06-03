@@ -309,6 +309,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0003-longest-substring-without-repeating-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0415-add-strings](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
+| [0520-detect-capital](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0541-reverse-string-ii/) | Easy |
 | [0796-rotate-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0796-rotate-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1816-truncate-sentence/) | Easy |
