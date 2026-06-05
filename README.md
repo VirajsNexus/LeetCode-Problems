@@ -313,6 +313,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0520-detect-capital](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0541-reverse-string-ii/) | Easy |
 | [0796-rotate-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0796-rotate-string/) | Easy |
+| [0831-masking-personal-information](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0831-masking-personal-information/) | Medium |
 | [1816-truncate-sentence](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1816-truncate-sentence/) | Easy |
 | [1871-jump-game-vii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1871-jump-game-vii/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
