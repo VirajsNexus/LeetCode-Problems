@@ -49,6 +49,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [1732-find-the-highest-altitude](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1816-truncate-sentence](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1816-truncate-sentence/) | Easy |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1835-find-xor-sum-of-all-pairs-bitwise-and/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1861-rotating-the-box/) | Medium |
@@ -96,6 +97,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0788-rotated-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0788-rotated-digits/) | Medium |
 | [1025-divisor-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1835-find-xor-sum-of-all-pairs-bitwise-and/) | Hard |
 | [2396-strictly-palindromic-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
@@ -171,6 +173,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0461-hamming-distance](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0461-hamming-distance/) | Easy |
 | [0645-set-mismatch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1835-find-xor-sum-of-all-pairs-bitwise-and/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Tree
