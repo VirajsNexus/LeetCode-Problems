@@ -329,6 +329,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0482-license-key-formatting](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0541-reverse-string-ii/) | Easy |
+| [0686-repeated-string-match](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0796-rotate-string/) | Easy |
 | [0831-masking-personal-information](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0831-masking-personal-information/) | Medium |
 | [1816-truncate-sentence](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1816-truncate-sentence/) | Easy |
@@ -404,6 +405,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0686-repeated-string-match](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0796-rotate-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
