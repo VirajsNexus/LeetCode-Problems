@@ -12,29 +12,20 @@ class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) 
     {
+        ListNode* current = head;
 
-        // IMP note : Linked list is already sorted means duplicate element is present exactly next to Operating node position 
-
-        //TempPtr to Traverse Linked List
-        ListNode* TempPtr = head;
-
-        // Traverse till End
-        while(TempPtr != nullptr && TempPtr -> next != nullptr)
+        while(current != NULL && current -> next != NULL)
         {
-            // Check current node value with its next node that is it equal or not
-            if(TempPtr -> val == TempPtr -> next -> val)
+            if(current -> val == current -> next -> val)
             {
-                // Duplicate found
-                // skip that next node and update next pointer 
-                TempPtr ->next = TempPtr -> next -> next;
+                current -> next = current -> next -> next;
             }
+
             else
             {
-                //Duplicate node not foud move TempPtr as normal(next node)
-                TempPtr = TempPtr -> next;
+                current = current -> next;
             }
-
-        } 
-            return head;        // Updated linked list
-    }   
+        }    
+        return head;
+    }
 };
