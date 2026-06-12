@@ -137,6 +137,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0206-reverse-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0622-design-circular-queue](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0622-design-circular-queue/) | Medium |
@@ -230,6 +231,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0050-powx-n](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0342-power-of-four/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Prefix Sum
