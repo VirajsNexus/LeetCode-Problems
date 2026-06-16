@@ -124,6 +124,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [2149-rearrange-array-elements-by-sign](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3174-clear-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3174-clear-digits/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,6 +346,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [3120-count-the-number-of-special-characters-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3174-clear-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3174-clear-digits/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
