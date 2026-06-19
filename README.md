@@ -140,6 +140,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0206-reverse-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -312,6 +313,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | ------- | ------- |
 | [0001-two-sum](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
