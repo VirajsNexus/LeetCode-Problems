@@ -7,11 +7,11 @@ public:
 
         for(int i = 0; i < gain.size(); i++)
         {
-            currentAltitude += gain[i];     //move to next point
+            currentAltitude += gain[i];
 
             if(currentAltitude > maxAltitude)
             {
-                maxAltitude = currentAltitude;      //update max
+                maxAltitude = currentAltitude;
             }
         }
         return maxAltitude;
