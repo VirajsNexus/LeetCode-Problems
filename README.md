@@ -48,6 +48,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [1441-build-an-array-with-stack-operations](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1590-make-sum-divisible-by-p](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -242,6 +243,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1871-jump-game-vii/) | Medium |
 | [2615-sum-of-distances](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2615-sum-of-distances/) | Medium |
@@ -319,6 +321,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1590-make-sum-divisible-by-p](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2540-minimum-common-value/) | Easy |
