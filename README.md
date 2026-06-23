@@ -40,6 +40,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0682-baseball-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [1046-last-stone-weight](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1046-last-stone-weight/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1306-jump-game-iii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1306-jump-game-iii/) | Medium |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -85,6 +86,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0274-h-index](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0274-h-index/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0645-set-mismatch/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1402-reducing-dishes](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1402-reducing-dishes/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
