@@ -60,6 +60,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [1848-minimum-distance-to-the-target-element](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1861-rotating-the-box/) | Medium |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1929-concatenation-of-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -90,6 +91,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1402-reducing-dishes](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1402-reducing-dishes/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 ## Math
