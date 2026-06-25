@@ -23,6 +23,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0118-pascals-triangle](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -300,6 +301,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0055-jump-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0118-pascals-triangle](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0788-rotated-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0788-rotated-digits/) | Medium |
 | [1025-divisor-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
 | [1402-reducing-dishes](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1402-reducing-dishes/) | Hard |
