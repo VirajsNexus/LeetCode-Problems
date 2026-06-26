@@ -80,6 +80,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [3660-jump-game-ix](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3660-jump-game-ix/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -241,6 +242,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0191-number-of-1-bits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,6 +260,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [1871-jump-game-vii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1871-jump-game-vii/) | Medium |
 | [2615-sum-of-distances](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2615-sum-of-distances/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,6 +348,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [3121-count-the-number-of-special-characters-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -447,10 +451,12 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
