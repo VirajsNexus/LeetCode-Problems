@@ -4,29 +4,15 @@ public:
     {
         int count = 0;
 
-        for(int i = 0;  i < patterns.size(); i++)
+        for(string s : patterns)
         {
-            string p = patterns[i];
-            bool found = false;
-
-            for(int j = 0;  j<= (int)word.size() - (int)p.size(); j++)
-            {   
-                int k;
-                for(k = 0; k < p.size(); k++)
+            for(int i = 0; i <= (int)word.size() - (int)s.size(); i++)
+            {
+                if(word.substr(i, s.size()) == s)
                 {
-                    if(word[j+k] != p[k])
-                        break;
-                }
-                            
-                if(k == p.size())
-                {
-                    found = true;
+                    count++;
                     break;
                 }
-            }
-            if(found == true)
-            {
-                count++;
             }
         }
         return count;
