@@ -119,6 +119,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0628-maximum-product-of-three-numbers](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0788-rotated-digits/) | Medium |
 | [1025-divisor-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1835-find-xor-sum-of-all-pairs-bitwise-and/) | Hard |
 | [2396-strictly-palindromic-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2396-strictly-palindromic-number/) | Medium |
