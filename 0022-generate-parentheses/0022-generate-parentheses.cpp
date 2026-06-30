@@ -19,12 +19,12 @@ public:
         }
 
         //Choose ')'
-        if(close < open)
-        {
-            current.push_back(')');
-            backTrack(current, open, close + 1, size);
-            current.pop_back();
-        }
+       if(close < open)
+       {
+        current.push_back(')');
+        backTrack(current, open, close + 1, size);
+        current.pop_back();
+       }
 
     }
     vector<string> generateParenthesis(int n) 
