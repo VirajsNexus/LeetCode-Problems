@@ -9,6 +9,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -248,6 +249,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0148-sort-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
 | [0191-number-of-1-bits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -274,6 +276,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
