@@ -349,6 +349,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
@@ -378,6 +379,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0796-rotate-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0796-rotate-string/) | Easy |
 | [0831-masking-personal-information](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0831-masking-personal-information/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1816-truncate-sentence](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1816-truncate-sentence/) | Easy |
 | [1871-jump-game-vii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -393,6 +395,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1871-jump-game-vii/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 ## Design
