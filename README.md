@@ -43,6 +43,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0645-set-mismatch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1306-jump-game-iii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1306-jump-game-iii/) | Medium |
@@ -293,6 +294,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0501-find-mode-in-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 ## Two Pointers
