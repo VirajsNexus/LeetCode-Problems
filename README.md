@@ -42,6 +42,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0636-exclusive-time-of-functions](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
+| [0704-binary-search](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1046-last-stone-weight/) | Easy |
@@ -294,6 +295,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0501-find-mode-in-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0704-binary-search](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2540-minimum-common-value/) | Easy |
