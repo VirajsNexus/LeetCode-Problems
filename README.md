@@ -122,6 +122,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0415-add-strings](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0788-rotated-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0788-rotated-digits/) | Medium |
 | [1025-divisor-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -293,6 +294,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0704-binary-search](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0704-binary-search/) | Easy |
@@ -314,6 +316,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0541-reverse-string-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0541-reverse-string-ii/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1861-rotating-the-box/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
