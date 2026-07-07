@@ -138,6 +138,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
