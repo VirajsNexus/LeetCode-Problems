@@ -24,6 +24,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0118-pascals-triangle](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -226,6 +227,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0098-validate-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -256,6 +258,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0098-validate-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -265,6 +268,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0148-sort-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
 | [0191-number-of-1-bits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -368,6 +372,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0001-two-sum](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0041-first-missing-positive/) | Hard |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0217-contains-duplicate](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
