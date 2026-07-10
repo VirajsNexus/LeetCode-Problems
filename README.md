@@ -228,6 +228,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0101-symmetric-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0112-path-sum](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0112-path-sum/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -240,6 +241,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0098-validate-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0112-path-sum/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -249,6 +251,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0112-path-sum/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1306-jump-game-iii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1306-jump-game-iii/) | Medium |
 ## Binary Tree
@@ -259,6 +262,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0101-symmetric-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0112-path-sum](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0112-path-sum/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
