@@ -50,6 +50,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [1046-last-stone-weight](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1306-jump-game-iii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1306-jump-game-iii/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1402-reducing-dishes](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1402-reducing-dishes/) | Hard |
@@ -105,6 +106,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0645-set-mismatch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [0912-sort-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1402-reducing-dishes](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1402-reducing-dishes/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -382,6 +384,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1590-make-sum-divisible-by-p/) | Medium |
