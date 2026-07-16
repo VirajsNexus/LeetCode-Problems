@@ -342,6 +342,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0151-reverse-words-in-a-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0283-move-zeroes/) | Easy |
+| [0481-magical-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0481-magical-string/) | Medium |
 | [0541-reverse-string-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0541-reverse-string-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -420,6 +421,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0151-reverse-words-in-a-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0415-add-strings](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0481-magical-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0481-magical-string/) | Medium |
 | [0482-license-key-formatting](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0541-reverse-string-ii/) | Easy |
