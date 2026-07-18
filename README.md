@@ -76,6 +76,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1929-concatenation-of-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -138,6 +139,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [1344-angle-between-hands-of-a-clock](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1835-find-xor-sum-of-all-pairs-bitwise-and/) | Hard |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
@@ -165,6 +167,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
