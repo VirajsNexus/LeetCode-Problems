@@ -204,6 +204,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0636-exclusive-time-of-functions](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0682-baseball-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -381,6 +382,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1402-reducing-dishes](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1402-reducing-dishes/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -433,6 +435,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0686-repeated-string-match](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0796-rotate-string/) | Easy |
 | [0831-masking-personal-information](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0831-masking-personal-information/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1816-truncate-sentence](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1816-truncate-sentence/) | Easy |
@@ -497,6 +500,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0042-trapping-rain-water](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
