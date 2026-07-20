@@ -52,6 +52,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0912-sort-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1260-shift-2d-grid](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1306-jump-game-iii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
@@ -155,6 +156,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0258-add-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
 | [0682-baseball-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
+| [1260-shift-2d-grid](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
@@ -488,6 +490,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
+| [1260-shift-2d-grid](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1861-rotating-the-box](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1861-rotating-the-box/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Game Theory
