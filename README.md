@@ -443,6 +443,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1392-longest-happy-prefix](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1816-truncate-sentence](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1816-truncate-sentence/) | Easy |
 | [1871-jump-game-vii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -528,6 +529,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0459-repeated-substring-pattern](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0686-repeated-string-match](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0796-rotate-string/) | Easy |
+| [1392-longest-happy-prefix](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -578,8 +580,10 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0214-shortest-palindrome/) | Hard |
+| [1392-longest-happy-prefix](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0214-shortest-palindrome/) | Hard |
+| [1392-longest-happy-prefix](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1392-longest-happy-prefix/) | Hard |
 <!---LeetCode Topics End-->
