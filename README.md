@@ -130,6 +130,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0096-unique-binary-search-trees](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0223-rectangle-area](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0223-rectangle-area/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0258-add-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0342-power-of-four](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0342-power-of-four/) | Easy |
 | [0415-add-strings](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
@@ -202,6 +203,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0042-trapping-rain-water](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
@@ -432,6 +434,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0022-generate-parentheses](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0214-shortest-palindrome](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0214-shortest-palindrome/) | Hard |
+| [0227-basic-calculator-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0415-add-strings](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0459-repeated-substring-pattern/) | Easy |
