@@ -60,6 +60,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [1402-reducing-dishes](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1402-reducing-dishes/) | Hard |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -115,6 +116,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [1331-rank-transform-of-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1402-reducing-dishes](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1402-reducing-dishes/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
@@ -523,6 +525,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0912-sort-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
