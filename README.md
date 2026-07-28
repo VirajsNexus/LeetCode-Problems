@@ -135,6 +135,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0227-basic-calculator-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0258-add-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0342-power-of-four](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0342-power-of-four/) | Easy |
+| [0400-nth-digit](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0400-nth-digit/) | Medium |
 | [0415-add-strings](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -330,6 +331,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0400-nth-digit](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0400-nth-digit/) | Medium |
 | [0493-reverse-pairs](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0493-reverse-pairs/) | Hard |
 | [0501-find-mode-in-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0633-sum-of-square-numbers/) | Medium |
