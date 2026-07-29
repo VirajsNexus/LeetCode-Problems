@@ -340,6 +340,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0704-binary-search](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2223-sum-of-scores-of-built-strings](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2540-minimum-common-value](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -456,6 +457,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [1816-truncate-sentence](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1816-truncate-sentence/) | Easy |
 | [1871-jump-game-vii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2223-sum-of-scores-of-built-strings](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -540,6 +542,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0686-repeated-string-match](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0796-rotate-string/) | Easy |
 | [1392-longest-happy-prefix](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1392-longest-happy-prefix/) | Hard |
+| [2223-sum-of-scores-of-built-strings](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -591,9 +594,15 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1392-longest-happy-prefix/) | Hard |
+| [2223-sum-of-scores-of-built-strings](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1392-longest-happy-prefix/) | Hard |
+| [2223-sum-of-scores-of-built-strings](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 <!---LeetCode Topics End-->
