@@ -151,6 +151,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -399,6 +400,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -460,6 +462,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [2223-sum-of-scores-of-built-strings](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
