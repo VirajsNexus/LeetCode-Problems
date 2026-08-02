@@ -49,6 +49,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0704-binary-search](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0877-stone-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1046-last-stone-weight/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -142,6 +143,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0628-maximum-product-of-three-numbers](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0788-rotated-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
@@ -385,6 +387,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0118-pascals-triangle](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0788-rotated-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
 | [1402-reducing-dishes](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1402-reducing-dishes/) | Hard |
 | [1871-jump-game-vii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1871-jump-game-vii/) | Medium |
@@ -520,6 +523,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
