@@ -168,6 +168,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0682-baseball-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
 | [1260-shift-2d-grid](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -316,6 +317,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0050-powx-n](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0342-power-of-four/) | Easy |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -465,6 +467,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [1189-maximum-number-of-balloons](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1392-longest-happy-prefix/) | Hard |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1816-truncate-sentence](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1816-truncate-sentence/) | Easy |
 | [1871-jump-game-vii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
