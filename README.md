@@ -96,6 +96,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3660-jump-game-ix](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3660-jump-game-ix/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
@@ -124,6 +125,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -442,6 +444,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [3120-count-the-number-of-special-characters-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3731-find-missing-elements](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
