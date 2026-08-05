@@ -519,6 +519,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0077-combinations](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
