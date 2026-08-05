@@ -216,6 +216,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0150-evaluate-reverse-polish-notation](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0394-decode-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0394-decode-string/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0636-exclusive-time-of-functions/) | Medium |
@@ -319,6 +320,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0050-powx-n](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0342-power-of-four/) | Easy |
+| [0394-decode-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0394-decode-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Prefix Sum
@@ -456,6 +458,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0151-reverse-words-in-a-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0214-shortest-palindrome](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0214-shortest-palindrome/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0394-decode-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0394-decode-string/) | Medium |
 | [0415-add-strings](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0459-repeated-substring-pattern/) | Easy |
