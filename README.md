@@ -475,6 +475,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [1189-maximum-number-of-balloons](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1392-longest-happy-prefix/) | Hard |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1816-truncate-sentence](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1816-truncate-sentence/) | Easy |
 | [1871-jump-game-vii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1871-jump-game-vii/) | Medium |
@@ -524,6 +525,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0077-combinations](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0093-restore-ip-addresses/) | Medium |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
