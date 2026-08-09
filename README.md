@@ -32,6 +32,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0179-largest-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -108,6 +109,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0056-merge-intervals](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0056-merge-intervals/) | Medium |
 | [0147-insertion-sort-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
+| [0179-largest-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0274-h-index](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0274-h-index/) | Medium |
@@ -408,6 +410,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
+| [0179-largest-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0179-largest-number/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1402-reducing-dishes](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1402-reducing-dishes/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -458,6 +461,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0022-generate-parentheses](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0179-largest-number](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0179-largest-number/) | Medium |
 | [0214-shortest-palindrome](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0214-shortest-palindrome/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0394-decode-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0394-decode-string/) | Medium |
