@@ -150,6 +150,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0877-stone-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1510-stone-game-iv](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1510-stone-game-iv/) | Hard |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1835-find-xor-sum-of-all-pairs-bitwise-and/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -401,6 +402,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0877-stone-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
 | [1402-reducing-dishes](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1402-reducing-dishes/) | Hard |
+| [1510-stone-game-iv](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1510-stone-game-iv/) | Hard |
 | [1871-jump-game-vii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1871-jump-game-vii/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2742-painting-the-walls](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2742-painting-the-walls/) | Hard |
@@ -546,6 +548,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | ------- | ------- |
 | [0877-stone-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
+| [1510-stone-game-iv](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1510-stone-game-iv/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -639,4 +642,20 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1510-stone-game-iv/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
