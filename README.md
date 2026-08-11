@@ -92,6 +92,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2742-painting-the-walls](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2742-painting-the-walls/) | Hard |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -125,6 +126,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3731-find-missing-elements/) | Easy |
@@ -447,6 +449,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [2615-sum-of-distances](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
