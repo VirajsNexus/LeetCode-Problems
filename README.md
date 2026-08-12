@@ -92,6 +92,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2742-painting-the-walls](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2742-painting-the-walls/) | Hard |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -449,6 +450,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [2615-sum-of-distances](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -509,6 +511,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/1871-jump-game-vii/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
