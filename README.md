@@ -39,6 +39,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0219-contains-duplicate-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0274-h-index](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -119,6 +120,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0215-kth-largest-element-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0274-h-index](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0274-h-index/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [0912-sort-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0912-sort-an-array/) | Medium |
@@ -357,6 +359,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0400-nth-digit](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0400-nth-digit/) | Medium |
 | [0493-reverse-pairs](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0493-reverse-pairs/) | Hard |
 | [0501-find-mode-in-binary-search-tree](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
@@ -384,6 +387,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0151-reverse-words-in-a-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0481-magical-string](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0481-magical-string/) | Medium |
 | [0541-reverse-string-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0541-reverse-string-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -444,6 +448,7 @@ Maintained by [Viraj Jamdhade](https://github.com/VirajsNexus/)
 | [0141-linked-list-cycle](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/VirajsNexus/LeetCode-Problems/tree/main/0645-set-mismatch/) | Easy |
